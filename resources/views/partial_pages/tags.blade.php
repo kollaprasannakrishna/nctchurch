@@ -1,0 +1,11 @@
+<div class="widget">
+    <h5 class="widgetheading">Popular tags</h5>
+    <ul class="tags">
+        <li><a href="#">Web design</a></li>
+        <li><a href="#">Trends</a></li>
+        <li><a href="#">Technology</a></li>
+        <li><a href="#">Internet</a></li>
+        <li><a href="#">Tutorial</a></li>
+        <li><a href="#">Development</a></li>
+    </ul>
+</div>

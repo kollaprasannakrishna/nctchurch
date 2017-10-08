@@ -1,0 +1,146 @@
+body{
+  background-color: #f2f2f2;
+}
+.grad-back{
+background: red !important;
+background: -webkit-linear-gradient(-90deg,rgba(49, 79, 187, 0.69), rgba(12, 181, 119, 0.81)) !important;
+background: -o-linear-gradient(-90deg, rgba(49, 79, 187, 0.69), rgba(12, 181, 119, 0.81)) !important;
+background: -moz-linear-gradient(-90deg,rgba(49, 79, 187, 0.69), rgba(12, 181, 119, 0.81)) !important;
+background: linear-gradient(-90deg, rgba(49, 79, 187, 0.69), rgba(12, 181, 119, 0.81)) !important;
+}
+
+.c-ul-div{
+  background-color: #ee6e73 !important;
+  padding: 1rem !important;
+}
+header, main, footer {
+      padding-left: 300px;
+    }
+
+    @media only screen and (max-width : 992px) {
+      header, main, footer {
+        padding-left: 0;
+      }
+      .select2-container{
+        margin-top: 0px !important;
+      }
+    }
+.width-50{
+  width: 50%;
+  float: left;
+}
+.c-padding-bricks{
+  width: 300px;
+  height: 80px;
+  margin-top: 10px;
+}
+.c-padding-bricks i{
+  font-size: 78px;
+}
+.tags label{
+  padding-left: 10px;
+  margin-top: 10px
+}
+
+
+.select2-container{
+  margin-top: -30px !important;
+}
+.pagination li{
+  width: 26px !important;
+  padding-top: 4px !important;
+  color: white;
+}
+
+.card-height img{
+  height: 70px;
+}
+.card-height span{
+  padding: 15px !important;
+}
+.schedule-left-color{
+  background-color: #20A5CF;
+}
+
+.schedule-right-color{
+  background-color: #23B7E5;
+}
+.add-top-10{
+  margin-top: 10px;
+}
+.add-top-20{
+  margin-top: 20px;
+}
+.add-top-40{
+  margin-top: 40px;
+}
+.schedule-left-color p{
+  margin-top: 5px !important;
+}
+.add-left-10{
+  margin-left: 10px;
+}
+.add-right-10{
+  margin-right: 10px;
+}
+.eye-right-color{
+  background-color:#26A69A;
+}
+.eye-left-color{
+  background-color: #22968B;
+}
+.message-right-color{
+  background-color:#4CAF50;
+}
+.message-left-color{
+  background-color: #459E48;
+}
+.volume-right-color{
+  background-color:#7986CB;
+}
+.volume-left-color{
+    background-color: #6D79B7;
+}
+
+
+
+
+.remove-margin-bottom{
+  margin-bottom: 0px !important;
+}
+
+.add-border-bottom{
+  border-bottom: solid 1px black;
+  margin-bottom: 10px;
+}
+
+.adjust-fab-toolbar .fixed-action-btn{
+  position: relative !important;
+  right: 0px !important;
+}
+
+
+.edit-button{
+  right: 9px !important;
+  bottom: 0px !important;
+  position: relative !important;
+  z-index: 900;
+  float: right;
+
+}
+.edit-button ul{
+    top:15% !important;
+}
+.row-padding{
+  padding: 15px;
+}
+.padding-null{
+  padding: 0px !important;
+}
+.add-bottom-20{
+  margin-bottom: 20px;
+}
+.add-bottom-10{
+  margin-bottom: 10px;
+}
+
